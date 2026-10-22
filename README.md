@@ -1,7 +1,5 @@
 # 作業五：PWM and Logic Analyzer
 
-> STM32 專案資料夾沿用 `HW6_PWM_MX`，名稱不另修改。
-
 ## 基本題：PWM 波形
 
 使用 **STM32 B-L475E-IOT01A** 的 **TIM2_CH1（PA15／D9）** 輸出 PWM，以 **ZEROPLUS LAP-C(16128)** Logic Analyzer 觀察。應用情境為 LED 亮度控制；本次實作及驗證的是 PWM 訊號，**沒有另外接 LED 測試亮度**。
